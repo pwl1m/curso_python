@@ -1,0 +1,4 @@
+total=10*20
+
+porcentagem=3**3
+print(porcentagem)
